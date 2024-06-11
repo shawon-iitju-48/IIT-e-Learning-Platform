@@ -39,7 +39,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/IIT-eLearning-Platform.git
+   git clone [https://github.com/yourusername/IIT-eLearning-Platform.git](https://github.com/shawon-iitju-48/IIT-e-Learning-Platform.git)
    ```
 2. Navigate to the project directory:
    ```bash
