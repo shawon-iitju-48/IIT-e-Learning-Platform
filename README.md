@@ -23,23 +23,46 @@
 - **Frontend**: HTML, CSS, JavaScript, JQuery, AJAX
 
 ## Project Structure
-![Decomposition Chart]('Project Output/decomposition.png')
+![Decomposition Chart](Project Output/decomposition.png)
 *Decomposition chart of the system*
 
-![Use Case Diagram](path/to/use_case_diagram_image)
+![Use Case Diagram](Project Output/use case diagram.png)
 *Use case diagram showcasing the interactions within the system*
 
 ## Sample Outputs
-![Sample Output 1](path/to/sample_output_image1)
+Here are some sample outputs from the project:
+
+![Sample Output 1](Project Output/sample1.png)
 *Example of a user dashboard*
 
-![Sample Output 2](path/to/sample_output_image2)
+![Sample Output 2](Project Output/sample2.png)
 *Example of a course material upload section*
+
+![Sample Output 3](Project Output/sample3.png)
+*Example of a registration panel*
+
+![Sample Output 4](Project Output/sample4.png)
+*Example of a student profile page*
+
+![Sample Output 5](Project Output/sample5.png)
+*Example of an admin panel*
+
+![Sample Output 6](Project Output/sample6.png)
+*Example of a course creation page*
+
+![Sample Output 7](Project Output/sample7.png)
+*Example of an emergency message notification*
+
+![Sample Output 8](Project Output/sample8.png)
+*Example of a search functionality*
+
+![Sample Output 9](Project Output/sample9.png)
+*Example of attendance tracking*
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/IIT-eLearning-Platform.git](https://github.com/shawon-iitju-48/IIT-e-Learning-Platform.git)
+   git clone https://github.com/yourusername/IIT-eLearning-Platform.git
    ```
 2. Navigate to the project directory:
    ```bash
