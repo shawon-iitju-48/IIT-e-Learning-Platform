@@ -23,27 +23,50 @@
 - **Frontend**: HTML, CSS, JavaScript, JQuery, AJAX
 
 ## Project Structure
-![Decomposition Chart](path/to/decomposition_chart_image)
+![Decomposition Chart](Project%20Output/decomposition.png)
 *Decomposition chart of the system*
 
-![Use Case Diagram](path/to/use_case_diagram_image)
+![Use Case Diagram](Project%20Output/use%20case%20diagram.png)
 *Use case diagram showcasing the interactions within the system*
 
 ## Sample Outputs
-![Sample Output 1](path/to/sample_output_image1)
+Here are some sample outputs from the project:
+
+![Sample Output 1](Project%20Output/sample1.png)
 *Example of a user dashboard*
 
-![Sample Output 2](path/to/sample_output_image2)
-*Example of a course material upload section*
+![Sample Output 2](Project%20Output/sample2.png)
+*Example of a user profile customization*
+
+![Sample Output 3](Project%20Output/sample3.png)
+*Example of searching teacher or student by various category*
+
+![Sample Output 4](Project%20Output/sample4.png)
+*Example of a course catalog page*
+
+![Sample Output 5](Project%20Output/sample5.png)
+*Example of a course resources page*
+
+![Sample Output 6](Project%20Output/sample6.png)
+*Example of a course resources page (class record watching)*
+
+![Sample Output 7](Project%20Output/sample7.png)
+*Example of classroom creation*
+
+![Sample Output 8](Project%20Output/sample8.png)
+*Example of a exam taking platform*
+
+![Sample Output 9](Project%20Output/sample9.png)
+*Example of attendance tracking*
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/IIT-eLearning-Platform.git
+   git clone https://github.com/shawon-iitju-48/IIT-e-Learning-Platform.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd IIT-eLearning-Platform
+   cd IIT-e-Learning-Platform
    ```
 3. Install dependencies:
    ```bash
@@ -83,15 +106,11 @@
 ## Contributions
 Contributions are welcome! Please fork the repository and submit pull requests.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any queries or support, please contact:
-- Name: [Your Name]
-- Email: [Your Email]
+- Name: [Md. Bokhtiar Nadeem Shawon]
+- Email: [shawon.iitju.48@gmail.com]
 
 ---
 
-![Logo](path/to/logo_image)
 *IIT e-Learning Platform - Simplifying education for everyone*
