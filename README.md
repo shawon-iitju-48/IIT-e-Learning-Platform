@@ -24,45 +24,45 @@
 
 ## Project Structure
 ![Decomposition Chart](Project%20Output/decomposition.png)
-*Decomposition chart of the system*
+<p align="center"><i>Fig: Decomposition chart of the system</i></p>
 
 ![Use Case Diagram](Project%20Output/use%20case%20diagram.png)
-*Use case diagram showcasing the interactions within the system*
+<p align="center"><i>Fig: Use case diagram showcasing the interactions within the system</i></p>
 
 ## Sample Outputs
 Here are some sample outputs from the project:
 
 ![Sample Output 1](Project%20Output/sample1.png)
-*Example of a user dashboard*
+<p align="center"><i>Fig: Example of a user dashboard</i></p>
 
 ![Sample Output 2](Project%20Output/sample2.png)
-*Example of a user profile customization*
+<p align="center"><i>Fig: Example of a user profile customization</i></p>
 
 ![Sample Output 3](Project%20Output/sample3.png)
-*Example of searching teacher or student by various category*
+<p align="center"><i>Fig: Example of searching teacher or student by various categories</i></p>
 
 ![Sample Output 4](Project%20Output/sample4.png)
-*Example of a course catalog page*
+<p align="center"><i>Fig: Example of a course catalog page</i></p>
 
 ![Sample Output 5](Project%20Output/sample5.png)
-*Example of a course resources page*
+<p align="center"><i>Fig: Example of a course resources page</i></p>
 
 ![Sample Output 6](Project%20Output/sample6.png)
-*Example of a course resources page (class record watching)*
+<p align="center"><i>Fig: Example of a course resources page (class record watching)</i></p>
 
 ![Sample Output 7](Project%20Output/sample7.png)
-*Example of classroom creation*
+<p align="center"><i>Fig: Example of classroom creation</i></p>
 
 ![Sample Output 8](Project%20Output/sample8.png)
-*Example of a exam taking platform*
+<p align="center"><i>Fig: Example of an exam taking platform</i></p>
 
 ![Sample Output 9](Project%20Output/sample9.png)
-*Example of attendance tracking*
+<p align="center"><i>Fig: Example of attendance tracking</i></p>
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shawon-iitju-48/IIT-e-Learning-Platform.git
+   git clone https://github.com/yourusername/IIT-e-Learning-Platform.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -106,10 +106,13 @@ Here are some sample outputs from the project:
 ## Contributions
 Contributions are welcome! Please fork the repository and submit pull requests.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 For any queries or support, please contact:
-- Name: [Md. Bokhtiar Nadeem Shawon]
-- Email: [shawon.iitju.48@gmail.com]
+- Name: Md. Bokhtiar Nadeem Shawon
+- Email: shawon.iitju.48@gmail.com
 
 ---
 
