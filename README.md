@@ -23,7 +23,7 @@
 - **Frontend**: HTML, CSS, JavaScript, JQuery, AJAX
 
 ## Project Structure
-![Decomposition Chart](path/to/decomposition_chart_image)
+![Decomposition Chart]('Project Output/decomposition.png')
 *Decomposition chart of the system*
 
 ![Use Case Diagram](path/to/use_case_diagram_image)
