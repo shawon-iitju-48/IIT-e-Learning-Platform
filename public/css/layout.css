@@ -1,0 +1,134 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+body {
+    font-family: 'Poppins';
+}
+
+.container {
+    margin-left: 1rem !important;
+    margin-top: 1rem;
+
+}
+
+.col-3 {
+    position: fixed;
+    padding: 1% 1%;
+    width: 13rem;
+
+
+}
+
+.col-3 .brand {
+    margin-left:-1rem;
+    display: flex;
+    align-items: center;
+}
+
+.col-3 .brand .name b {
+    font-size: 30px;
+    font-weight: 1000;
+}
+.col-3 .brand .icon{
+    font-size:30px;
+    color:rgb(94, 87, 185);
+    margin-right:1rem;
+}
+
+.col-3 .dashboard{
+    margin-top:2rem;
+    margin-bottom:1rem;
+    display:flex;
+    flex-direction: column;
+
+}
+.col-3 .dashboard a{
+    text-decoration: none;
+    
+}
+.col-3 .dashboard .golla{
+    /* background-color:    #012169; */
+    color:rgb(80, 78, 78);
+    height:2.5rem;
+    width:13rem;
+    margin-left:-2rem;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left:1rem;
+    margin-bottom:1rem;
+
+}
+.col-3 .dashboard .golla:hover{
+    background-color: #415480;
+    color:white;
+}
+.col-3 .dashboard .golla .icon{
+    margin-right:1rem;
+    font-size:1rem;
+    font-weight: 300;
+}
+.col-3 .dashboard .golla .name b{
+    font-size: 1rem;
+    font-weight: 600;
+}
+.col-9 {
+    padding: 1.5% 1%;
+    margin-left: 20%;
+}
+.col-9 .welcome{
+    margin-top:-2.5rem;
+    padding-top:2.5rem;
+    padding-bottom: 1rem;
+    padding-left:1.3rem;
+    padding-right:1rem;
+    display: flex;
+    height:100px;
+    width: 100%;
+    position: fixed;
+   background-color: white;
+   margin-left:-1.9rem;
+
+}
+.col-9 .welcome .name{
+    /* line-height: 0.5rem; */
+    display: flex;
+    flex-direction: column;
+}
+.col-9 .welcome .name{
+    color:rgb(80, 78, 78);
+}
+.col-9 .welcome .name b{
+    font-size: 1.2rem;
+}
+
+.col-9 .welcome .image img{
+    height:50px;
+    width:50px;
+    border-radius: 100%;
+    margin-right:1rem;
+}
+.vr {
+    position: fixed;
+    margin-left: 15%;
+    height: 658px;
+    margin-top: -1rem;
+    width: 2px !important;
+    background-color: rgb(204, 207, 206);
+}
+.content{
+    margin-top:4rem;
+}
+.content .col-3{
+    position: fixed;
+    left:73%;
+    height: 100%;
+    width:22rem;
+    padding:1rem 1rem;
+    overflow-y: scroll;
+    padding-bottom:10rem;
+
+}
+.content .col-3::-webkit-scrollbar{
+   display: none;
+}

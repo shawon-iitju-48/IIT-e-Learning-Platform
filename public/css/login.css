@@ -1,0 +1,86 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+.navigation {
+    position: absolute;
+    width: 90%;
+    height: 40px;
+    left: 89px;
+    top: 2rem;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1.5rem;
+}
+
+.navigation .col-4 {
+    display: flex;
+    justify-content: right;
+}
+
+.navigation .col-4 a {
+    color: #4461F2;
+
+}
+
+body {
+    font-family: 'Poppins';
+}
+
+.main {
+    margin-top: 20%;
+}
+
+.main h2 {
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.register {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.register span a {
+    text-decoration: none;
+}
+
+.main img {
+    position: absolute;
+    width: 412px;
+    height: 332px;
+    top:45%;
+    left:30%;
+}
+.main form{
+    margin-left:20%;
+}
+.main form input{
+    background-color: #EAF0F7;
+    width:18rem;
+    border:none;
+}
+
+.main form span{
+    font-size: small;
+    margin-left: 1%;
+}
+.main form .forgot{
+    display: flex;
+    margin-top:-.5rem;
+    justify-content: right;
+}
+.main form a{
+    text-decoration: none;
+    font-size: small;
+    color:#696f74;
+    font-weight: 300;
+}
+.main form button{
+    width:100%;
+    margin-top: 2rem;
+    background-color: #4461F2;
+}
+
