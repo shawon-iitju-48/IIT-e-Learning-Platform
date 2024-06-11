@@ -1,3 +1,5 @@
+Here's a refined version of the README with the correct Markdown syntax for images:
+
 # IIT e-Learning Platform
 
 ## Overview
@@ -23,40 +25,40 @@
 - **Frontend**: HTML, CSS, JavaScript, JQuery, AJAX
 
 ## Project Structure
-![Decomposition Chart](Project Output/decomposition.png)
+![Decomposition Chart](Project%20Output/decomposition.png)
 *Decomposition chart of the system*
 
-![Use Case Diagram](Project Output/use case diagram.png)
+![Use Case Diagram](Project%20Output/use%20case%20diagram.png)
 *Use case diagram showcasing the interactions within the system*
 
 ## Sample Outputs
 Here are some sample outputs from the project:
 
-![Sample Output 1](Project Output/sample1.png)
+![Sample Output 1](Project%20Output/sample1.png)
 *Example of a user dashboard*
 
-![Sample Output 2](Project Output/sample2.png)
+![Sample Output 2](Project%20Output/sample2.png)
 *Example of a course material upload section*
 
-![Sample Output 3](Project Output/sample3.png)
+![Sample Output 3](Project%20Output/sample3.png)
 *Example of a registration panel*
 
-![Sample Output 4](Project Output/sample4.png)
+![Sample Output 4](Project%20Output/sample4.png)
 *Example of a student profile page*
 
-![Sample Output 5](Project Output/sample5.png)
+![Sample Output 5](Project%20Output/sample5.png)
 *Example of an admin panel*
 
-![Sample Output 6](Project Output/sample6.png)
+![Sample Output 6](Project%20Output/sample6.png)
 *Example of a course creation page*
 
-![Sample Output 7](Project Output/sample7.png)
+![Sample Output 7](Project%20Output/sample7.png)
 *Example of an emergency message notification*
 
-![Sample Output 8](Project Output/sample8.png)
+![Sample Output 8](Project%20Output/sample8.png)
 *Example of a search functionality*
 
-![Sample Output 9](Project Output/sample9.png)
+![Sample Output 9](Project%20Output/sample9.png)
 *Example of attendance tracking*
 
 ## Installation
