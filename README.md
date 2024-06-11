@@ -62,7 +62,7 @@ Here are some sample outputs from the project:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/IIT-e-Learning-Platform.git
+   git clone https://github.com/shawon-iitju-48/IIT-e-Learning-Platform.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -105,9 +105,6 @@ Here are some sample outputs from the project:
 
 ## Contributions
 Contributions are welcome! Please fork the repository and submit pull requests.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any queries or support, please contact:
